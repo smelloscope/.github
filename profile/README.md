@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Smello — HTTP request inspector for Python</h3>
+<h3 align="center">Smello. HTTP request inspector for Python</h3>
 
 <p align="center">
 Inspect outgoing HTTP and gRPC requests from your Python code in a local dashboard.<br>
