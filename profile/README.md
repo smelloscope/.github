@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://smello.io">
-    <img src="https://raw.githubusercontent.com/smelloscope/smello/main/docs/assets/logo-dark-with-background.svg" alt="Smello" width="120" height="120" style="border-radius: 16px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smelloscope/smello/main/docs/assets/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smelloscope/smello/main/docs/assets/logo.svg">
+      <img alt="Smello" src="https://raw.githubusercontent.com/smelloscope/smello/main/docs/assets/logo.svg" width="120" height="120">
+    </picture>
   </a>
 </p>
 
